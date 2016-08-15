@@ -795,8 +795,3 @@
     3) Line Intersection. Each line is determined by two points.
     4) Given 3 points which are not colinear (all on the same line) those three points uniquely define a circle, find the center of the circle
     5) Given a test point, (testPointX, testPointY), and the vertices of a simple polygon, vertices, determine if the test point is in the interior, in the exterior or on the boundary of the polygon. Return the String "INTERIOR", "EXTERIOR", or "BOUNDARY".
-
-
-
-
-
